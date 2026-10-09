@@ -1,10 +1,10 @@
-# Multi-Utility Toolkit in Python
+# Moduler & Packager
 
 **Author:** Sneha Padsala
 
-**Project Type:** Python Console-Based Application
+**Project Type:** Moduler & Packager
 
-**Language:** Python 3
+**Language:** Python 
 
 ---
 
@@ -261,7 +261,7 @@ In Visual Studio Code, select:
 If the main file is named `main.py`, enter:
 
 ```bash
-py main.py
+py Moduler & Packager .py
 ```
 
 If your file has a different name, replace `main.py` with the actual filename.
